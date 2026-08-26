@@ -1,4 +1,16 @@
-# ¿De qué se trata?
+# Enlaces de interés
+mate.unlp.edu.ar/
+https://union-matematica.org.ar/
+https://inmabb.criba.edu.ar/revuma/
+https://www.ams.org/
+https://www.mathunion.org/
+https://philpeople.org/
+https://www.researchgate.net/
+https://www.academia.edu/
+https://zenodo.org/
+https://arxiv.org/
+https://council.science/
+https://leidendeclaration.ai/
 Repositorio inicial.
 
 <!-- Insignias de Licencia -->
